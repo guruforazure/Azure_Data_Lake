@@ -1,1 +1,18 @@
+Data Lake is a big container to store data in it's native format.
+
+There is no limit of amount of data that can be stored. It can store structured, semi-structured and streaming data.
+
+It helps BA analyze the data immediately without having to process the data.
+
+Data Lake vs Hadoop: Hadoop is just one technology that can be used as part of Data Lake architecture. 
+
+Why Data Lake Gen 2?
+Combined the features of data lake gen 1 + Blob storage (Providing multiple tiers)
+
+Difference between Data Lake Gen 2 and Blob Storage:
+Provides hierarchical namespace. 
+Enables big data analytics.
+Compitable with Hadoop.
+Supports multiple Azure Integrations.
+
 
