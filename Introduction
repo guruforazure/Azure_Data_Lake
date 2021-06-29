@@ -10,9 +10,5 @@ Why Data Lake Gen 2?
 Combined the features of data lake gen 1 + Blob storage (Providing multiple tiers)
 
 Difference between Data Lake Gen 2 and Blob Storage:
-Provides hierarchical namespace. 
-Enables big data analytics.
-Compitable with Hadoop.
-Supports multiple Azure Integrations.
 
 
